@@ -1,0 +1,6 @@
+numpy
+gradio
+requests
+torch
+pytorch-transformers  
+requests          
